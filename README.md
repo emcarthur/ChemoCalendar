@@ -1,5 +1,5 @@
 # DoxIfos_Calendar
-An dynamic calendar to help patients keep track of their cancer infusion schedule. Specifically made to print handouts for sarcoma patients in Dr. Davis' Vanderbilt Clinic.
+An dynamic calendar to help patients keep track of their cancer infusion schedule (with doxorubicin and ifosfamide). Specifically made to print handouts for sarcoma patients in Dr. Davis' Vanderbilt Clinic.
 
 Dr. Davis' clinic is on M/Th so the schedule will start patient cycles on the upcoming M/Th. Labs and clinic visit at white blood cell count nadir is on day 10 for patients that start on Monday and day 11 for patients that start on Thursday.
 
