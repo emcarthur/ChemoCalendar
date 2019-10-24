@@ -1,7 +1,7 @@
 # ChemoCalendar
 An dynamic calendar to help patients keep track of their cancer infusion schedule (with doxorubicin and ifosfamide). Specifically made to print handouts for sarcoma patients in Dr. Davis' Vanderbilt Clinic.
 
-**HTML is live for use on my website:** [emcarthur.github.io/projects/ChemoCalendar/](http://emcarthur.github.io/projects/DoxIfos_Calendar/)
+**HTML is live for use on my website:** [emcarthur.github.io/projects/ChemoCalendar/](http://emcarthur.github.io/projects/ChemoCalendar/)
 
 **Sample PDF Schedule downloaded from the website:** [emcarthur.github.io/projects/ChemoCalendar/sample_schedule.pdf](http://emcarthur.github.io/projects/ChemoCalendar/sample_schedule.pdf)
 
