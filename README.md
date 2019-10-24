@@ -1,9 +1,9 @@
-# DoxIfos_Calendar
+# ChemoCalendar
 An dynamic calendar to help patients keep track of their cancer infusion schedule (with doxorubicin and ifosfamide). Specifically made to print handouts for sarcoma patients in Dr. Davis' Vanderbilt Clinic.
 
-**HTML is live for use on my website:** [emcarthur.github.io/projects/DoxIfos_Calendar/](http://emcarthur.github.io/projects/DoxIfos_Calendar/)
+**HTML is live for use on my website:** [emcarthur.github.io/projects/ChemoCalendar/](http://emcarthur.github.io/projects/DoxIfos_Calendar/)
 
-**Sample PDF Schedule downloaded from the website:** [emcarthur.github.io/projects/DoxIfos_Calendar/sample_schedule.pdf](http://emcarthur.github.io/projects/DoxIfos_Calendar/sample_schedule.pdf)
+**Sample PDF Schedule downloaded from the website:** [emcarthur.github.io/projects/ChemoCalendar/sample_schedule.pdf](http://emcarthur.github.io/projects/ChemoCalendar/sample_schedule.pdf)
 
 Dr. Davis' clinic is on Monday so the schedule will start patient cycles on the upcoming Monday. Labs and clinic visit at white blood cell count nadir is on day 10 for patients (the following Thursday). 
 
